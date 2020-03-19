@@ -1,0 +1,14 @@
+[10-May-2019 04:11:23 UTC] PHP Notice:  Undefined variable: email in /home/u6510106/public_html/member/pages/profile/profile.php on line 3
+[10-May-2019 04:11:23 UTC] PHP Notice:  Undefined index: status in /home/u6510106/public_html/member/pages/profile/profile.php on line 10
+[10-May-2019 05:21:31 UTC] PHP Notice:  Undefined index: picture in /home/u6510106/public_html/member/nav.php on line 74
+[10-May-2019 05:21:31 UTC] PHP Notice:  Undefined index: name in /home/u6510106/public_html/member/nav.php on line 74
+[10-May-2019 05:21:31 UTC] PHP Notice:  Undefined index: picture in /home/u6510106/public_html/member/nav.php on line 80
+[10-May-2019 05:21:31 UTC] PHP Notice:  Undefined index: name in /home/u6510106/public_html/member/nav.php on line 80
+[10-May-2019 05:21:31 UTC] PHP Notice:  Undefined index: picture in /home/u6510106/public_html/member/nav.php on line 114
+[10-May-2019 05:21:31 UTC] PHP Notice:  Undefined index: name in /home/u6510106/public_html/member/nav.php on line 114
+[10-May-2019 05:21:39 UTC] PHP Notice:  Undefined variable: email in /home/u6510106/public_html/member/pages/profile/profile.php on line 3
+[10-May-2019 05:21:39 UTC] PHP Notice:  Undefined index: status in /home/u6510106/public_html/member/pages/profile/profile.php on line 10
+[11-May-2019 03:09:06 UTC] PHP Notice:  Undefined variable: email in /home/u6510106/public_html/member/pages/profile/profile.php on line 3
+[11-May-2019 03:09:06 UTC] PHP Notice:  Undefined index: status in /home/u6510106/public_html/member/pages/profile/profile.php on line 10
+[11-May-2019 14:29:27 UTC] PHP Notice:  Undefined variable: email in /home/u6510106/public_html/member/pages/profile/profile.php on line 3
+[11-May-2019 14:29:27 UTC] PHP Notice:  Undefined index: status in /home/u6510106/public_html/member/pages/profile/profile.php on line 10

@@ -1,0 +1,16 @@
+HTTrack3.49-2 launched on Sun, 19 Jan 2020 12:41:02 at http://commo.jfonlinecourse.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -W http://commo.jfonlinecourse.com -O "/home/v/websites/commo" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:42:59	Error: 	"Not Found" (404) at link commo.jfonlinecourse.com/mews (from commo.jfonlinecourse.com/news)
+12:44:23	Warning: 	Retry after error -4 (No data (connection closed)) at link commo.jfonlinecourse.com/img/portfolio/web2.jpg (from commo.jfonlinecourse.com/)
+12:44:23	Error: 	"Not Found" (404) at link commo.jfonlinecourse.com/contactform/contactform.js (from commo.jfonlinecourse.com/)
+12:44:23	Warning: 	HTML file (17118 bytes) retransferred due to lack of cache: commo.jfonlinecourse.com/services-post
+12:44:26	Error: 	"" (404) at link commo.jfonlinecourse.com/mews (from commo.jfonlinecourse.com/news)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 26 seconds : 80 links scanned, 76 files written (4382385 bytes overall) [3444742 bytes received at 16722 bytes/sec], 1471888 bytes transferred using HTTP compression in 29 files, ratio 30%, 4.8 requests per connection
+(3 errors, 2 warnings, 0 messages)

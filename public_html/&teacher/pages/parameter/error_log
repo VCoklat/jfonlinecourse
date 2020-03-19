@@ -1,0 +1,8 @@
+[17-Mar-2019 15:33:33 UTC] PHP Fatal error:  Uncaught Exception: Table 'u6120185_data_pages.paket' doesn't exist query: INSERT  INTO paket (`gambar`)  VALUES (?) in /home/u6120185/public_html/dev/function/db_class/MysqliDb.php:2006
+Stack trace:
+#0 /home/u6120185/public_html/dev/function/db_class/MysqliDb.php(1594): MysqliDb->_prepareQuery()
+#1 /home/u6120185/public_html/dev/function/db_class/MysqliDb.php(1533): MysqliDb->_buildQuery(NULL, Array)
+#2 /home/u6120185/public_html/dev/function/db_class/MysqliDb.php(820): MysqliDb->_buildInsert('paket', Array, 'INSERT')
+#3 /home/u6120185/public_html/dev/&admin/pages/parameter/paket_upload.php(23): MysqliDb->insert('paket', Array)
+#4 {main}
+  thrown in /home/u6120185/public_html/dev/function/db_class/MysqliDb.php on line 2006

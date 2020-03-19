@@ -1,0 +1,9 @@
+[03-May-2019 06:45:22 UTC] PHP Notice:  Undefined index: detail in /home/u6510106/public_html/&admin/pages/bahasa/backend.php on line 6
+[03-May-2019 06:45:22 UTC] PHP Fatal error:  Uncaught Exception: Unknown column 'name' in 'field list' query: UPDATE paket SET `biaya` = ?, `detail` = ?, `name` = ?, `link` = ? WHERE  id = ?  in /home/u6510106/public_html/function/db_class/MysqliDb.php:2006
+Stack trace:
+#0 /home/u6510106/public_html/function/db_class/MysqliDb.php(1594): MysqliDb->_prepareQuery()
+#1 /home/u6510106/public_html/function/db_class/MysqliDb.php(913): MysqliDb->_buildQuery(NULL, Array)
+#2 /home/u6510106/public_html/&admin/pages/bahasa/backend.php(19): MysqliDb->update('paket', Array)
+#3 {main}
+  thrown in /home/u6510106/public_html/function/db_class/MysqliDb.php on line 2006
+[03-May-2019 06:46:09 UTC] PHP Notice:  Undefined index: detail in /home/u6510106/public_html/&admin/pages/bahasa/backend.php on line 6
